@@ -1,0 +1,76 @@
+// class persons{
+//     public $name="omit";
+//     // public $name="Hasan";
+//     public $age="21";   
+// }
+// $apply = new persons();
+// echo $apply->name;
+// echo $apply->age;
+
+// class fruit{
+//     public $name;
+//     public $age;
+//     public $price;
+// }
+// $obj = new fruit();
+// $obj -> name="Apple";
+// $obj -> age = "10day";
+// $obj -> price ="10$";
+// echo $obj-> name . $obj->age;
+
+
+// class names{
+//     public $name;
+//     function age(){
+//         $this ->name = "omit";
+//         return $this -> name;
+//     }
+// }
+// $obj = new names();
+// echo $obj -> age();
+
+// class abc{
+//     public $name;
+//     function info($fname){
+//         $this -> name = $fname;
+//         return $this -> name;
+//     }
+// }
+// $obj = new abc();
+// echo $obj -> info('hasan');
+// class abc{
+//     public $name;
+//     function info($lname){
+//         $this ->name = $lname;
+//         return $this ->name;
+//     }
+// }
+// $obj = new abc();
+// echo $obj-> info("ভন্ড রুবেল");
+
+// class def{
+//     public $name;
+//     public $age;
+//     function info($ages){
+//         $this->age = $ages;
+//         return $this-> age;
+//     }
+// }
+// $obj = new def();
+// echo $obj -> info('10');
+
+// class con{ 
+//     public $name;
+//         function __construct(){
+//           echo "jone doe";
+//         }
+//         // function info(){
+//         //     $this->name='Ruble';
+//         //     return $this -> name;
+
+//         // }
+// }
+// $obj = new con();
+//$obj -> name='omit';
+// echo $obj -> info();
+     
